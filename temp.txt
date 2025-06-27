@@ -1,1 +1,1 @@
-this is git trial
+this change is made in the temp.txt file from branch 1.
